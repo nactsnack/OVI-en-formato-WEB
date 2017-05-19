@@ -1,0 +1,41 @@
+header {
+    /*background: url(Presentacion.png) top left no-repeat;*/
+    
+    background: #f0b829;
+    color: #005883
+   /* width: 50px;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;*/
+}
+
+.main {
+    background:#FFFFFF ;
+    color: #005883 ;
+    border: 1px solid black;
+}
+
+aside {
+    background: #005883;
+    color: #FFFFFF;
+}
+
+.color1 {
+    background-color: #005883;
+    color: #FFFFFF
+}
+
+.color2 {
+    background-color: #FFFFFF;
+    color:#005883 
+}
+
+
+/* sólo color de fondo */
+
+footer {
+    background:#005883;
+    color: #FFFFFF
+}
+
+
