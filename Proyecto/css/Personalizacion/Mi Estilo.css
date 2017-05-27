@@ -1,20 +1,31 @@
 header {
     /*background: url(Presentacion.png) top left no-repeat;*/
-    
-    background: #f0b829;
-    color: #005883
-   /* width: 50px;
+    background: #FFFFFF;
+    color: #005883;
+    /* width: 50px;
     height: 200px;
     margin: 0px;
     padding: 0px;*/
 }
 
-.main {
-    background:#FFFFFF ;
-    color: #005883 ;
-    border: 1px solid black;
+.row_header{
+   background: #f47920;
+    color: #FFFFFF;
+
 }
 
+
+.main {
+    background: #FFFFFF;
+    color: #005883;
+    border: 5px solid orange;*/
+
+}
+
+.row_main{
+
+  border: 5px solid grey;*/
+}
 aside {
     background: #005883;
     color: #FFFFFF;
@@ -27,15 +38,51 @@ aside {
 
 .color2 {
     background-color: #FFFFFF;
-    color:#005883 
+    color: #005883
 }
 
-
-/* sólo color de fondo */
-
-footer {
-    background:#005883;
+.GITHUB {
+    background: #005883;
     color: #FFFFFF
 }
 
+.CSS3 {
+    background:#2ED445;
+    color: #FFFFFF
+}
 
+.HTML5{
+
+	background:#F67621;
+    color: #FFFFFF
+}
+
+.HTML5_Mm{
+
+	background:#F85252;
+    color: #FFFFFF
+}
+
+.CSS3_TRU{
+
+	background:#A032C0;
+    color: #FFFFFF
+}
+
+.NAV_BAR{
+
+	    background-color: #005883;
+        color: #FFFFFF
+}
+/* sólo color de fondo */
+
+footer {
+    background: #f0b829;
+    color: #241F1F
+}
+
+.search{
+
+background-color: #FFFFFF;
+	
+}
