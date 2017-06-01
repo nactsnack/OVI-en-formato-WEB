@@ -74,6 +74,29 @@ aside {
 	    background-color: #005883;
         color: #FFFFFF
 }
+
+.rad0{
+
+border: 2px solid gray;
+background-color: #9CE4EC;
+
+}
+
+.rad1{
+
+border: 2px solid gray;
+background-color: #F0E480;
+
+}
+
+.rad2{
+
+border: 2px solid gray;
+background-color: #DFDCDC;
+
+}
+
+
 /* sólo color de fondo */
 
 footer {
