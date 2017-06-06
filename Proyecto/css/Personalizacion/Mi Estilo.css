@@ -96,6 +96,13 @@ background-color: #DFDCDC;
 
 }
 
+.rad3{
+
+border: 2px solid gray;
+background-color:#DAF4EA;
+
+}
+
 
 /* sólo color de fondo */
 
@@ -108,4 +115,49 @@ footer {
 
 background-color: #FFFFFF;
 	
+}
+
+.autores1{
+
+ background-color:#3080B2;
+ color:#FFFFFF;
+
+
+}  
+.autores2{
+
+ background-color:#948D8D;
+ color:#FFFFFF;
+
+
+} 
+
+.autores3{
+
+border: 2px solid gray;
+background-color:#FFFFFF;
+
+
+}
+
+.ahorcado1{
+border: 2px solid white;
+background-color: #F1F2A5
+}
+
+.ahorcado2{
+     background-color: #95CCCD
+
+}
+.pacman{
+
+    background:#D6A3F0;
+    color: #FFFFFF
+
+}
+.github_pre{
+
+    background: #676AA9;
+    color: #FFFFFF
+
 }
