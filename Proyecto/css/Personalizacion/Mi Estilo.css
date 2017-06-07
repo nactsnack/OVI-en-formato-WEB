@@ -74,7 +74,22 @@ aside {
 	    background-color: #005883;
         color: #FFFFFF
 }
+.NAV_BAR_0{
 
+        background-color:#764878;
+        color: #FFFFFF
+}
+
+.NAV_BAR_1{
+
+        background-color: #7B4141;
+        color: #FFFFFF
+}
+.NAV_BAR_2{
+
+        background-color:#59857A;
+        color: #FFFFFF
+}
 .rad0{
 
 border: 2px solid gray;
