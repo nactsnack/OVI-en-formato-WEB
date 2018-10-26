@@ -22,4 +22,4 @@
            }
            document.getElementById('nivel').innerHTML = 'Nivel: ' + niv[aciertos];
        } < /script>
-</br>
+
