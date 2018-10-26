@@ -1,4 +1,4 @@
-/*jslint browser: true, undef: true, eqeqeq: true, nomen: true, white: true */
+ /*jslint browser: true, undef: true, eqeqeq: true, nomen: true, white: true */
 /*global window: false, document: false */
 
 /*
